@@ -12,7 +12,7 @@
     "chefshot": "./chefshot.js"
   },
   "dependencies": {
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.56.0",
     "dotenv": "^16.4.5",
     "jszip": "^3.10.1",
     "typescript": "^5.4.2",
