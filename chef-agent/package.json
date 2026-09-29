@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/node": "^20.17.30",
     "@types/path-browserify": "^1.0.3",
-    "vitest": "^2.1.9"
+    "vitest": "^3.2.6"
   },
   "packageManager": "pnpm@9.5.0"
 }
